@@ -1,0 +1,6 @@
+header{font-size: xx-large;text-align: center;color: rgb(0, 26, 255);}
+#container-imagem{position: relative;height: 100vh;width: 100vw; background-image: linear-gradient(white,aqua);}
+#login{color: blue; font-size: large; font-weight: bolder;}
+#usuario{color: blue;}
+#senha{color: blue;}
+img.displayed{display:block;max-width: 200px;position: relative;margin-left: auto;margin-right: auto;}
